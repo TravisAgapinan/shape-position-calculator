@@ -8,15 +8,8 @@
     - NUnit Testing Framework
     - Fluent Assertions
 
-## Setup
----
-- Extract `Rectangles.zip`
-- Open `Rectangles.sln` using Visual Studio (Community Edition is free)
-
-
 ## Running & Debugging
 ---
-- Included in the submission are `ShapePosition.exe` and what I _believe_ to be a linux compatible `ShapePosition` file. 
 - In Visual Studio
     - Ensure that the `ShapePosition` project is set as the start up project
     - Hit `F5` or click the `run` button denoted by a green triangle in the tool bar
