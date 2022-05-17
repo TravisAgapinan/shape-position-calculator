@@ -3,7 +3,7 @@ using NUnit.Framework;
 using ShapePosition.Models;
 using System;
 
-namespace ShapePosition.Tests
+namespace ShapePosition.Tests.RectangleTests
 {
     public class RectangleContainCalculatorTests
     {
@@ -55,7 +55,7 @@ namespace ShapePosition.Tests
             //Assert
             result.Should().BeTrue();
             invertedResult.Should().BeFalse();
-        }       
+        }
 
         [Test]
         public static void CalculateContained_NullRectangle1_ShouldThrowEx()

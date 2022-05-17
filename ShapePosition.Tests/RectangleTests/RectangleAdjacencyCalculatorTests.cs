@@ -3,7 +3,7 @@ using NUnit.Framework;
 using ShapePosition.Models;
 using System;
 
-namespace ShapePosition.Tests
+namespace ShapePosition.Tests.RectangleTests
 {
     public class RectangleAdjacencyCalculatorTests
     {
